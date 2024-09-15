@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_SalesDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91670E01-8D99-418E-BFA5-C78992201A4D}|P01_SalesDatabase\\P01_SalesDatabase.csproj|c:\\users\\ayman elshenawy\\source\\repos\\p01_salesdatabase\\p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91670E01-8D99-418E-BFA5-C78992201A4D}|P01_SalesDatabase\\P01_SalesDatabase.csproj|solutionrelative:p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ayman Elshenawy\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T03:14:07.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
